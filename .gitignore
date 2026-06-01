@@ -1,0 +1,23 @@
+# 编译生成的可执行文件
+*.exe
+*.o
+*.obj
+
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 图表输出文件
+*.png
+
+# 临时文件
+*.tmp
+*.bak
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
